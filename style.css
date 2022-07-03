@@ -13,7 +13,7 @@ h1 {
 
 .topsection {
     display: flex;
-    padding-left: 5%;
+    padding-left: 7%;
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
     margin-bottom: 100px;
@@ -47,4 +47,5 @@ a:hover {
     background-image: url(images/dream-bg.png);
     background-position: right;
     background-repeat: no-repeat;
+    padding-left: 7%;
 }
