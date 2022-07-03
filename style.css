@@ -16,6 +16,7 @@ h1 {
     padding-left: 5%;
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+    margin-bottom: 100px;
 }
 
 .half-width {
@@ -24,6 +25,7 @@ h1 {
 
 .half-width img {
     width: 80%;
+    margin-top: 30px;
 }
 
 .hiremebutton {
@@ -33,4 +35,16 @@ h1 {
     font-weight: 700;
     border-radius: 5px;
     padding: 10px 40px;
+
+}
+
+a:hover {
+    background-image: linear-gradient(gray, black);
+}
+
+.section2 {
+    display: flex;
+    background-image: url(images/dream-bg.png);
+    background-position: right;
+    background-repeat: no-repeat;
 }
