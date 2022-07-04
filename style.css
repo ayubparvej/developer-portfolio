@@ -16,7 +16,12 @@ h1 {
     padding-left: 7%;
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
-    margin-bottom: 100px;
+    margin-bottom: 150px;
+}
+
+.flexible-container {
+    display: flex;
+    margin-bottom: 150px;
 }
 
 .half-width {
@@ -48,4 +53,47 @@ a:hover {
     background-position: right;
     background-repeat: no-repeat;
     padding-left: 7%;
+    margin-bottom: 150px;
+}
+
+.section3 {
+    display: flex;
+    padding-left: 1%;
+
+}
+
+.orange {
+    color: orange;
+}
+
+.boxshadow {
+    width: 80%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 10px;
+}
+
+.h2 {
+    font-size: 40px;
+}
+
+.backgoround {
+    background-image: url(images/exp-bg.png);
+    background-position: left;
+    background-repeat: no-repeat;
+
+}
+
+#orangeborder {
+    border-left: 6px solid tomato;
+}
+
+#blueborder {
+    border-left: 6px solid blue;
+}
+
+footer p {
+    text-align: center;
 }
