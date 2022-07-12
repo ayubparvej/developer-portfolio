@@ -33,6 +33,10 @@ h1 {
     margin-top: 30px;
 }
 
+.half-width p {
+    padding-right: 50px;
+}
+
 .hiremebutton {
     text-decoration: none;
     background-image: linear-gradient(yellow, tomato);
